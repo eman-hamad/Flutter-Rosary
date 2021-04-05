@@ -1,4 +1,4 @@
-# counter
+# Rosary
 
 A new Flutter project.
 
